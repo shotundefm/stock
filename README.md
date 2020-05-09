@@ -1,2 +1,2 @@
-# stock
-Stock analytics
+# sosco-tradingapp
+Financial market trading analytics app
